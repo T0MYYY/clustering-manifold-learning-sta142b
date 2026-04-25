@@ -7,6 +7,12 @@ Final project in two parts: an individual component covering clustering and mani
 
 ---
 
+<p align="center">
+  <img src="part1-individual/plots/newplot.png" width="60%">
+</p>
+
+---
+
 ## Part I — Individual: Clustering and Manifold Learning (`part1-individual/`)
 
 | Section | Topic |
